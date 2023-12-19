@@ -84,9 +84,8 @@ exploit
 # Step 10:
 Now upload the file from your Linux machine to the windows machine in the LOCATION: /root/Downloads/FakeLogonScreen.exe (where my file was downloaded) by using the command.
 
-upload <location-where-file-is-downloaded-or-saved>
 
-![image1](![image](https://github.com/iabdullah215/Network-Security/assets/121729444/076e3ac5-bb86-4daa-a1de-2da143f3ec7e))
+![image1](https://github.com/iabdullah215/Network-Security/assets/121729444/076e3ac5-bb86-4daa-a1de-2da143f3ec7e)
 
 # Step 11:
 Now type the command below to enter the windows cmd.
