@@ -55,7 +55,7 @@ As you can see the file you created is there. So you have to simply download the
 
 ![image1](https://miro.medium.com/v2/resize:fit:640/format:webp/1*cjYd-6MIwIjo0QhQtptvtg.png)
 
-![image1](![image](https://github.com/iabdullah215/Network-Security/assets/121729444/f27d6212-ea98-479c-b6d1-805ffaf1c720)
+![image1](https://github.com/iabdullah215/Network-Security/assets/121729444/f27d6212-ea98-479c-b6d1-805ffaf1c720)
 
 # Step 7:
 After this go back to your Kali Linux machine and start the metasploit tool. First the command to set the module.
