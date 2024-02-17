@@ -32,7 +32,8 @@ It’s creating a Meterpreter reverse TCP shell payload for a Windows target. Me
 ![image1](https://miro.medium.com/v2/resize:fit:464/format:webp/1*abBUYoHzSYIBeJZnA6fHhg.png)
 
 # Step 4:
-First create a directory by the name of share in the location mentioned below and then paste the file that you have created in the directory. (LOCATION: /var/www/html)
+First create a directory by the name of share in the location mentioned below and then paste the file that you have created in the directory. 
+LOCATION: `/var/www/html`
 
 ```bash
 cd /var/www/html
